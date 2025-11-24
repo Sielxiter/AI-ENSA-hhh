@@ -1,12 +1,11 @@
-﻿# AI-ENSA-hhh
-﻿# install libs ;
- 
-﻿#pip intall numpy
-﻿#pip intall pandas
-﻿#pip install scikit-learn
+## Installation
 
+run the following cmds:
 
-#and u are ready
+1. `pip install numpy`
+2. `pip install pandas`
+3. `pip install scikit-learn`
 
+And you're ready!
 
 
